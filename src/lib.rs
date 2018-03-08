@@ -91,7 +91,7 @@
 extern crate hyper;
 
 #[macro_use] extern crate log;
-extern crate hyper_native_tls;
+extern crate hyper_openssl;
 extern crate serde;
 extern crate serde_json;
 extern crate serde_urlencoded;
